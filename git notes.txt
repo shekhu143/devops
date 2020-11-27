@@ -1,0 +1,11 @@
+    9  git clone https://github.com/shekhu143/maven-web-application.git
+
+fork
+top right side in git repo
+
+
+
+ git status
+   68  git add *
+   69  git status
+   70  history
