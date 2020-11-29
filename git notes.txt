@@ -6,6 +6,8 @@ top right side in git repo
 
 
  git status
+git add .
    68  git add *
    69  git status
    70  history
+
